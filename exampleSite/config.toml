@@ -1,4 +1,4 @@
-baseurl = "http://hugo-ecommerce.com/"
+baseurl = "https://hugo-commerce.netlify.app/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
